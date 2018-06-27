@@ -54,7 +54,7 @@
 
 	<div class="container section" style="min-height: 800px">
 		<div class="section ">
-			<h2 class="center orange-text text-darken-1 orange-text text-darken-1">Even voorstellen</h2>
+			<h2 class="center blue-text">Even voorstellen</h2>
 			<p id="Content" class="scrollspy">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 			</p>
 			<hr style="border-color: #1e88e5;" />
@@ -95,7 +95,7 @@
 				<div class="row valign-wrapper">
 					<div class="col s12 m12">
 						<div class="section ">
-							<h2 class="center orange-text text-darken-1 ">Wie zijn wij?</h2>
+							<h2 class="center blue-text">Wie zijn wij?</h2>
 						</div>
                         <div class="row">
                             <div class="col s12 m8">
@@ -118,7 +118,7 @@
                                             </tr>
                                             <tr>
                                                 <td><b>Specialisme</b></td>
-                                                <td>poepen in een oude schoen</td>
+                                                <td>motoriek</td>
                                             </tr>
 
                                         </table>
@@ -158,7 +158,7 @@
                                             </tr>
                                             <tr>
                                                 <td><b>Specialisme</b></td>
-                                                <td>poepen in een oude schoen</td>
+                                                <td>limbo</td>
                                             </tr>
 
                                         </table>
@@ -184,7 +184,7 @@
 				</div>
 			</div>
 		</div>
-		<div class="parallax" style="background-image: url(piccers/headerwit.png); background-position: top;"></div>
+		<div class="parallax"> <img src="piccers/codingheader2.png"></div>
 	</div>
 	<div class="container section">
 		<div class="section">
@@ -192,7 +192,7 @@
 			<div class="row">
 				<div class="col s12 m12">
 					<div class="section ">
-						<h2 class="center orange-text text-darken-1 ">Locatie</h2>
+						<h2 class="center blue-text">Locatie</h2>
 					</div>
 				</div>
 				<div class="col s12 m12">
@@ -214,13 +214,13 @@
 				</div>
 			</div>
 		</div>
-		<div class="parallax"><img src="piccers/headerwit2.png" alt="Unsplashed background img 2"></div>
+		<div class="parallax"><img src="piccers/codingheader3.png" alt="Unsplashed background img 2"></div>
 	</div>
 
 	<div id="Contact" class="container section scrollspy blue-text">
 		<div class="section">
 			<div class="row">
-				<h2 class="center orange-text text-darken-1 contact">Contact</h2>
+				<h2 class="center blue-text contact">Contact</h2>
 					<div class="col col s12 m12 center">
 						<div class="card grey lighten-5">
 							<div class="card-content black-text Ccontent-height">
@@ -268,8 +268,6 @@
 					<div class="col l6 s12">
 						<h5 class="white-text">Company Bio</h5>
 						<p class="grey-text text-lighten-4">We are a team of college students working on this project like it's our full time job. Any amount would help support and continue development on this project and is greatly appreciated.</p>
-
-
 					</div>
 					<div class="col l3 s12">
 						<h5 class="white-text">Settings</h5>
@@ -296,7 +294,7 @@
                     </div>
                     <div class="col 3 right">
                         Made by <a class="orange-text text-lighten-1" target="_BLANK" href="https://sidoi.nl"><b>Sidoi Klumper</b>
-                        </a>&amp; <a class="light-green-text accent-4" target="_BLANK" href="https://sidoi.nl"><b>Sjihdazi Hellingman</b></a>
+                        </a>&amp; <a class="light-green-text text-accent-4" target="_BLANK" href="https://sidoi.nl"><b>Sjihdazi Hellingman</b></a>
                     </div>
                 </div>
 			</div>
