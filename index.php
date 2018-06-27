@@ -55,7 +55,8 @@
 	<div class="container section" style="min-height: 800px">
 		<div class="section ">
 			<h2 class="center blue-text">Even voorstellen</h2>
-			<p id="Content" class="scrollspy">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+			<p id="Content" class="scrollspy">
+                Wij zijn twee HBO studenten die geld willen verdienen door domme simpele websites aan te smeren aan particuliere bedrijven die zeer trieste websites hebben.
 			</p>
 			<hr style="border-color: #1e88e5;" />
 		</div>
