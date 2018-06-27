@@ -6,13 +6,7 @@
  * Made By MaterializeCSS.com
  */
 
-nav li a{
-    color: black;
-}
 
-nav li a:active{
-    border-bottom: 1px solid blue;
-}
 
 @media (min-width: 1200px){
 
