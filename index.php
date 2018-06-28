@@ -163,16 +163,16 @@
                                 <li>proberen niet te bezwijken onder de druk van het leven</li>
                                 <li>logo's maken</li>
 
-                                <li>adem (o.a. bij COPD, dyspneu, kortademigheid en hyperventilatie)</li>
+                                <li>ademen</li>
                                 <li>chronisch hoesten</li>
-                                <li>lezen- en spelling</li>
+                                <li>lezen- en spelling toetsen maken</li>
                             </ul>
                             <hr style="border-color: #1e88e5;" >
                             <ul>
-                                <li>Een afspraak maken kan <b class="blue-text">zonder verwijzing</b>.</li>
+                                <li>Een afspraak maken kan <b class="blue-text">alleen met clinische verwijzing</b>.</li>
                                 <li>Er is geen wachtlijst.</li>
                                 <li>Logopedie wordt vergoed door alle verzekeraars.</li>
-                                <li>Logopedie <18 jaar wordt volledig vergoed.</li>
+                                <li>Web development <18 jaar wordt volledig vergoed.</li>
                             </ul>
                         </div>
                     </div>

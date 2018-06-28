@@ -26,6 +26,10 @@
     border: 2px solid white
 }
 
+.footer-copyright .container{
+    margin-bottom: -15px;
+}
+
 @media (min-width: 1200px){
 
 }
