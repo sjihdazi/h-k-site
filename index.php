@@ -64,9 +64,6 @@
 			<!--   Over Mij Section   -->
 			<div class="row">
                 <div class="col s12 m12">
-                    <div class="section ">
-                        <h4 class="center">Wie zijn wij?</h4>
-                    </div>
                     <div class="row">
 <!--                        <div class="col s12 m3">-->
 <!--                            <img src="piccers/bazen/sjihdazi.png" alt="" class="circle responsive-img">-->
@@ -217,8 +214,8 @@
 				</div>
 				<div class="col s12 m12">
 					<div id="Locatie" class="icon-block scrollspy">
-						<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2408.874427491614!2d7.085270315980235!3d52.86066421867878!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47b7c1b970d2f8cf%3A0x573f015f07181a0a!2sLogopediepraktijk+Hellingman!5e0!3m2!1snl!2snl!4v1520434869435" width="100%" height="300" frameborder="0" style="border:0" allowfullscreen></iframe>
-						<h5 class="blue-text">Ter Apel</h5>
+                        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d9774.224566645604!2d5.530337046055245!3d52.23328141791694!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47c6362af67df9bd%3A0xde428797ccc55baa!2s3882+SM+Hell!5e0!3m2!1snl!2snl!4v1530197255042" width="100%" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+                        <h5 class="blue-text">Hell</h5>
 						<p class="light">We did most of the heavy lifting for you to provide a default stylings that incorporate our custom components. Additionally, we refined animations and transitions to provide a smoother experience for developers.</p>
 					</div>
 				</div>
