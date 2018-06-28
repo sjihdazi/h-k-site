@@ -6,7 +6,25 @@
  * Made By MaterializeCSS.com
  */
 
+.content-parallax{
+    height: 200px;
+}
 
+.cardbg{
+    background-image: url("../piccers/cardbg.png");
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.cardhr{
+    background: white;
+    border-color: white;
+    width: 300px;
+    float: left;
+}
+.cardimg{
+    border: 2px solid white
+}
 
 @media (min-width: 1200px){
 

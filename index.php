@@ -63,21 +63,111 @@
 		<div class="section">
 			<!--   Over Mij Section   -->
 			<div class="row">
+                <div class="col s12 m12">
+                    <div class="section ">
+                        <h4 class="center">Wie zijn wij?</h4>
+                    </div>
+                    <div class="row">
+<!--                        <div class="col s12 m3">-->
+<!--                            <img src="piccers/bazen/sjihdazi.png" alt="" class="circle responsive-img">-->
+<!--                        </div>-->
+                        <div class="col s12 m6">
+                            <div class="card cardbg">
+                                <div class="card-content">
+                                    <div class="row">
+                                        <div class="col s12 m7">
+                                            <span class="card-title blue-text">Sjihdazi Hellingman</span>
+                                            <hr class="cardhr">
+                                            <table class="whoami">
+                                                <tr>
+                                                    <td><b>Leeftijd</b></td>
+                                                    <td>20</td>
+                                                </tr>
+                                                <tr>
+                                                    <td><b>Opleiding  </b></td>
+                                                    <td>Applicatieontwikkelaar, Deltion College, Zwolle</td>
+                                                </tr>
+                                                <tr>
+                                                    <td><b>sinds</b></td>
+                                                    <td>2018</td>
+                                                </tr>
+                                                <tr>
+                                                    <td><b>Specialisme</b></td>
+                                                    <td>motoriek</td>
+                                                </tr>
+                                            </table>
+                                        </div>
+                                        <div class="col s12 m4">
+                                            <img src="piccers/bazen/sjihdazi.png" alt="" class="cardimg circle responsive-img">
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+<!--                        <div class="col s12 m3">-->
+<!--                            <img src="piccers/bazen/sidoi.png" alt="" class="circle responsive-img">-->
+<!--                        </div>-->
+                        <div class="col s12 m6">
+                            <div class="card cardbg">
+                                <div class="card-content">
+                                    <div class="row">
+                                        <div class="col s12 m7">
+                                            <span class="card-title blue-text">Sidoi Klumper</span>
+                                            <hr class="cardhr">
+                                            <table class="whoami">
+                                                <tr>
+                                                    <td><b>Leeftijd</b></td>
+                                                    <td>19</td>
+                                                </tr>
+                                                <tr>
+                                                    <td><b>Opleiding</b></td>
+                                                    <td>Applicatieontwikkelaar, Drenthe College, Emmen</td>
+                                                </tr>
+                                                <tr>
+                                                    <td><b>sinds</b></td>
+                                                    <td>2017</td>
+                                                </tr>
+                                                <tr>
+                                                    <td><b>Specialisme</b></td>
+                                                    <td>limbo</td>
+                                                </tr>
+                                            </table>
+                                        </div>
+                                        <div class="col s12 m4">
+                                            <img src="piccers/bazen/sidoi.png" alt="" class="cardimg circle responsive-img">
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col s12 m6">
+                            <p>
+                                Ma name
+                            </p>
+                        </div>
+                        <div class="col s12 m6">
+                            <p>
+                               a Jeff.
+                            </p>
+                        </div>
+                    </div>
+                </div>
 				<div class="col s12 m12 ">
-					<div class="card grey lighten-5" style="height: 460px;">
+					<div class="card" style="height: 460px;">
 						<div class="card-content">
-							<span class="card-title blue-text">Wat doen wij?</span>
+                            <span class="card-title blue-text"><h4>Wat doen wij?</h4></span>
                             <ul>
-                                <li>spraak/articulatie</li>
-                                <li>stotteren</li>
-                                <li>taal</li>
-                                <li>afwijkende mondgewoonten</li>
-                                <li>stem</li>
+                                <li>Websites ontwerpen</li>
+                                <li>Websites ontwikkelen</li>
+                                <li>drinken</li>
+                                <li>proberen niet te bezwijken onder de druk van het leven</li>
+                                <li>logo's maken</li>
+
                                 <li>adem (o.a. bij COPD, dyspneu, kortademigheid en hyperventilatie)</li>
                                 <li>chronisch hoesten</li>
                                 <li>lezen- en spelling</li>
                             </ul>
-                            <hr style="border-color: #f8bbd0;" >
+                            <hr style="border-color: #1e88e5;" >
                             <ul>
                                 <li>Een afspraak maken kan <b class="blue-text">zonder verwijzing</b>.</li>
                                 <li>Er is geen wachtlijst.</li>
@@ -89,95 +179,16 @@
                 </div>
             </div>
         </div>
-		</div>
-		<div class="container section">
-			<div class="section">
-				<!--   Location Section   -->
-				<div class="row valign-wrapper">
-					<div class="col s12 m12">
-						<div class="section ">
-							<h2 class="center blue-text">Wie zijn wij?</h2>
-						</div>
-                        <div class="row">
-                            <div class="col s12 m8">
-                                <div class="card grey lighten-5">
-                                    <div class="card-content">
-                                        <span class="card-title blue-text">Sjihdazi Hellingman</span>
-                                        <hr>
-                                        <table class="whoami">
-                                            <tr>
-                                                <td><b>Leeftijd</b></td>
-                                                <td>20</td>
-                                            </tr>
-                                            <tr>
-                                                <td><b>Opleiding  Applicatieontwikkelaar</b></td>
-                                                <td>Deltion College, Zwolle</td>
-                                            </tr>
-                                            <tr>
-                                                <td><b>sinds</b></td>
-                                                <td>2018</td>
-                                            </tr>
-                                            <tr>
-                                                <td><b>Specialisme</b></td>
-                                                <td>motoriek</td>
-                                            </tr>
-
-                                        </table>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="col s12 m3">
-                                <img src="piccers/bazen/sjihdazi.png" alt="" class="circle responsive-img">
-                            </div>
-                            <div class="col s12 m12">
-                                <p>
-                                    Ma name jeff.
-                                </p>
-                            </div>
-                        </div>
-                        <div class="row">
-                            <div class="col s12 m3">
-                                <img src="piccers/bazen/sidoi.png" alt="" class="circle responsive-img">
-                            </div>
-                            <div class="col s12 m8">
-                                <div class="card grey lighten-5">
-                                    <div class="card-content">
-                                        <span class="card-title blue-text">Sidoi Klumper</span>
-                                        <hr>
-                                        <table class="whoami">
-                                            <tr>
-                                                <td><b>Leeftijd</b></td>
-                                                <td>19</td>
-                                            </tr>
-                                            <tr>
-                                                <td><b>Opleiding  Applicatieontwikkelaar</b></td>
-                                                <td>Drenthe College, Emmen</td>
-                                            </tr>
-                                            <tr>
-                                                <td><b>sinds</b></td>
-                                                <td>2017</td>
-                                            </tr>
-                                            <tr>
-                                                <td><b>Specialisme</b></td>
-                                                <td>limbo</td>
-                                            </tr>
-
-                                        </table>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="col s12 m12">
-                                <p>
-                                    Ma name jeff.
-                                </p>
-                            </div>
-                        </div>
-					</div>
-				</div>
-			</div>
-		</div>
-	</div>
-	<div class="parallax-container valign-wrapper">
+    </div>
+<!--    <div class="container section">-->
+<!--        <div class="section">-->
+<!--            <!--   Location Section   -->-->
+<!--            <div class="row valign-wrapper">-->
+<!---->
+<!--            </div>-->
+<!--        </div>-->
+<!--    </div>-->
+	<div class="parallax-container content-parallax valign-wrapper">
 		<div class="section no-pad-bot">
 			<div class="container">
 				<div class="row center">
@@ -185,7 +196,7 @@
 				</div>
 			</div>
 		</div>
-		<div class="parallax"> <img src="piccers/codingheader2.png"></div>
+		<div class="parallax"> <img src="piccers/codingheader3.png"></div>
 	</div>
 	<div class="container section">
 		<div class="section">
@@ -208,7 +219,7 @@
 	</div>
 	
 
-	<div class="parallax-container valign-wrapper">
+	<div class="parallax-container content-parallax valign-wrapper">
 		<div class="section no-pad-bot">
 			<div class="container">
 				<div class="row center">
