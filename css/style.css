@@ -19,7 +19,7 @@
 .cardhr{
     background: white;
     border-color: white;
-    width: 300px;
+    width: 100%;
     float: left;
 }
 .cardimg{
@@ -28,6 +28,13 @@
 
 .footer-copyright .container{
     margin-bottom: -15px;
+}
+
+.whoami{
+    margin-bottom: 10px;
+}
+.whoami td{
+    padding: 10px 5px;
 }
 
 @media (min-width: 1200px){

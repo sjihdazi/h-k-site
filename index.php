@@ -58,7 +58,7 @@
 			<p id="Content" class="scrollspy">
                 Wij zijn twee HBO studenten die geld willen verdienen door domme simpele websites aan te smeren aan particuliere bedrijven die zeer trieste websites hebben.
 			</p>
-			<hr style="border-color: #1e88e5;" />
+			<hr style="border-color: transparent;background: #1e88e5;" />
 		</div>
 		<div class="section">
 			<!--   Over Mij Section   -->
@@ -84,8 +84,12 @@
                                                     <td>20</td>
                                                 </tr>
                                                 <tr>
-                                                    <td><b>Opleiding  </b></td>
+                                                    <td><b>Diploma</b></td>
                                                     <td>Applicatieontwikkelaar, Deltion College, Zwolle</td>
+                                                </tr>
+                                                <tr>
+                                                    <td><b>Opleiding</b></td>
+                                                    <td>Informatica, Stenden Hoge School</td>
                                                 </tr>
                                                 <tr>
                                                     <td><b>sinds</b></td>
@@ -120,8 +124,12 @@
                                                     <td>19</td>
                                                 </tr>
                                                 <tr>
-                                                    <td><b>Opleiding</b></td>
+                                                    <td><b>Diploma</b></td>
                                                     <td>Applicatieontwikkelaar, Drenthe College, Emmen</td>
+                                                </tr>
+                                                <tr>
+                                                    <td><b>Opleiding</b></td>
+                                                    <td>Informatica, Stenden Hoge School</td>
                                                 </tr>
                                                 <tr>
                                                     <td><b>sinds</b></td>
@@ -167,7 +175,7 @@
                                 <li>chronisch hoesten</li>
                                 <li>lezen- en spelling toetsen maken</li>
                             </ul>
-                            <hr style="border-color: #1e88e5;" >
+                            <hr style="border-color: transparent;background: #1e88e5;" />
                             <ul>
                                 <li>Een afspraak maken kan <b class="blue-text">alleen met clinische verwijzing</b>.</li>
                                 <li>Er is geen wachtlijst.</li>
@@ -182,7 +190,7 @@
     </div>
 <!--    <div class="container section">-->
 <!--        <div class="section">-->
-<!--            <!--   Location Section   -->-->
+<!--            <!--   Location Section   -->
 <!--            <div class="row valign-wrapper">-->
 <!---->
 <!--            </div>-->
@@ -217,7 +225,6 @@
 			</div>
 		</div>
 	</div>
-	
 
 	<div class="parallax-container content-parallax valign-wrapper">
 		<div class="section no-pad-bot">
@@ -233,35 +240,35 @@
 		<div class="section">
 			<div class="row">
 				<h2 class="center blue-text contact">Contact</h2>
-					<div class="col col s12 m12 center">
-						<div class="card grey lighten-5">
-							<div class="card-content black-text Ccontent-height">
-								<h4 class="blue-text">Afspraak maken?</h4>
-								<span class="flow-text">
-                                    Voor aanmeldingen, afspraken en informatie  kunt u met de onderstaande gegevens contact met mij opnemen.
-                                    <div class="section">
-                                            <p>Huisnummer: <span class="blue-text">0599580081</span></p>
-                                            <a class="black btn-large btn-floating white-text" href="tel:0599580081"><i class="material-icons">local_phone</i></a>
-                                    </div>
-                                    <div class="section">
-                                            <p>Whatsapp: <span class="blue-text">06-29043191</span></p>
-                                            <a class="black btn-large btn-floating white-text" href="https://api.whatsapp.com/send?phone=+31629043191"><i class="material-icons">chat_bubble_outline</i></a>
-                                    </div>
-                                    <div class="section">
-                                            <p>e-mail: <span class="blue-text">s.hellingmanrijnvos@hetnet.nl</span></p>
-                                            <a class="black btn-large btn-floating white-text" href="mailto:s.hellingmanrijnvos@hetnet.nl?SUBJECT=Afspraak"><i class="material-icons">mail_outline</i></a>
-                                    </div>
-                                </span>
-								<span class="flow-text ">
-								Telefonisch of per mail kan ik zo spoedig mogelijk een afpsraak maken.
-                                Omdat ik geen wachtlijst heb, kan dit zo snel mogelijk en op een tijdstip dat u past.
-                                </span>
-							</div>
-						</div>
-					</div>
-				</div>
-			</div>
-		</div>
+                <div class="col col s12 m12 center">
+                    <div class="card grey lighten-5">
+                        <div class="card-content black-text Ccontent-height">
+                            <h4 class="blue-text">Afspraak maken?</h4>
+                            <span class="flow-text">
+                                Voor aanmeldingen, afspraken en informatie  kunt u met de onderstaande gegevens contact met mij opnemen.
+                                <div class="section">
+                                        <p>Huisnummer: <span class="blue-text">0599580081</span></p>
+                                        <a class="black btn-large btn-floating white-text" href="tel:0599580081"><i class="material-icons">local_phone</i></a>
+                                </div>
+                                <div class="section">
+                                        <p>Whatsapp: <span class="blue-text">06-29043191</span></p>
+                                        <a class="black btn-large btn-floating white-text" href="https://api.whatsapp.com/send?phone=+31629043191"><i class="material-icons">chat_bubble_outline</i></a>
+                                </div>
+                                <div class="section">
+                                        <p>e-mail: <span class="blue-text">s.hellingmanrijnvos@hetnet.nl</span></p>
+                                        <a class="black btn-large btn-floating white-text" href="mailto:s.hellingmanrijnvos@hetnet.nl?SUBJECT=Afspraak"><i class="material-icons">mail_outline</i></a>
+                                </div>
+                            </span>
+                            <span class="flow-text ">
+                            Telefonisch of per mail kan ik zo spoedig mogelijk een afpsraak maken.
+                            Omdat ik geen wachtlijst heb, kan dit zo snel mogelijk en op een tijdstip dat u past.
+                            </span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
 
 		<!-- Modal Structure -->
 		<div id="modal1" class="modal">
@@ -274,48 +281,47 @@
 			</div>
 		</div>
 
-		<footer class="page-footer blue darken-1">
-			<div class="container">
-				<div class="row">
-					<div class="col l6 s12">
-						<h5 class="white-text">Company Bio</h5>
-						<p class="grey-text text-lighten-4">We are a team of college students working on this project like it's our full time job. Any amount would help support and continue development on this project and is greatly appreciated.</p>
-					</div>
-					<div class="col l3 s12">
-						<h5 class="white-text">Settings</h5>
-						<ul>
-							<li><a class="white-text" href="#!">Link 1</a></li>
-							<li><a class="white-text" href="#!">Link 2</a></li>
-						</ul>
-					</div>
-					<div class="col l3 s12">
-						<h5 class="white-text">Connect</h5>
-						<ul>
-							<li><a class="white-text" href="#!">Link 1</a></li>
-							<li><a class="white-text" href="#!">Link 2</a></li>
-						</ul>
-					</div>
-				</div>
-			</div>
-		</div>
-		<div class="footer-copyright black">
-			<div class="container">
-                <div class="row">
-                    <div class="col 3">
-                        &#169;<a class="white-text" target="_blank" href="#"><b>H</b>&amp;<b>K</b> web development</a>
-                    </div>
-                    <div class="col 3 right">
-                        Made by <a class="orange-text text-lighten-1" target="_BLANK" href="https://sidoi.nl"><b>Sidoi Klumper</b>
-                        </a>&amp; <a class="light-green-text text-accent-4" target="_BLANK" href="https://sidoi.nl"><b>Sjihdazi Hellingman</b></a>
-                    </div>
+    <footer class="page-footer blue darken-1">
+        <div class="container">
+            <div class="row">
+                <div class="col l6 s12">
+                    <h5 class="white-text">Company Bio</h5>
+                    <p class="grey-text text-lighten-4">We are a team of college students working on this project like it's our full time job. Any amount would help support and continue development on this project and is greatly appreciated.</p>
                 </div>
-			</div>
+                <div class="col l3 s12">
+                    <h5 class="white-text">Settings</h5>
+                    <ul>
+                        <li><a class="white-text" href="#!">Link 1</a></li>
+                        <li><a class="white-text" href="#!">Link 2</a></li>
+                    </ul>
+                </div>
+                <div class="col l3 s12">
+                    <h5 class="white-text">Connect</h5>
+                    <ul>
+                        <li><a class="white-text" href="#!">Link 1</a></li>
+                        <li><a class="white-text" href="#!">Link 2</a></li>
+                    </ul>
+                </div>
+            </div>
         </div>
-		</footer>
-		<!--  Scripts-->
-		<script src="https://code.jquery.com/jquery-2.1.1.min.js"></script>
-		<script src="js/materialize.js"></script>
-		<script src="js/init.js"></script>
-
-	</body>
-	</html>
+    </div>
+    <div class="footer-copyright black">
+        <div class="container">
+            <div class="row">
+                <div class="col 3">
+                    &#169; <a class="white-text" target="_blank" href="#"><b>H</b>&amp;<b>K</b> webworks</a>
+                </div>
+                <div class="col 3 right">
+                    Made by <a class="orange-text text-lighten-1" target="_BLANK" href="https://sidoi.nl"><b>Sidoi Klumper</b>
+                    </a>&amp; <a class="light-green-text text-accent-4" target="_BLANK" href="https://sidoi.nl"><b>Sjihdazi Hellingman</b></a>
+                </div>
+            </div>
+        </div>
+    </div>
+    </footer>
+    <!--  Scripts-->
+    <script src="https://code.jquery.com/jquery-2.1.1.min.js"></script>
+    <script src="js/materialize.js"></script>
+    <script src="js/init.js"></script>
+</body>
+</html>
