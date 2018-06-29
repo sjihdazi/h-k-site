@@ -36,7 +36,7 @@
                         <li><a class="white-text" href="#Content">Even voorstellen</a></li>
 					</div>
 					<div class="col s12">
-                        <li><a class="white-text" href="#Locaties">Locatie</a></li>
+                        <li><a class="white-text" href="#Locatie">Locatie</a></li>
 					</div>
 					<div class="col s12">
 						<li><a class="white-text" href="#Contact">Contact</a></li>
@@ -47,7 +47,7 @@
 		</div>
 	</nav>
 
-	<div class="parallax-container valign-wrapper">
+	<div class="header-parallax parallax-container valign-wrapper">
         <div class="row center"><img class="responsive-img" style="max-width: 100%; max-height: 450px;" src="piccers/logoh&k_wd.png"></div>
 		<div class="parallax" ><img src="piccers/codingheader.png" alt="Unsplashed background img 2" ></div>
 	</div>
@@ -68,7 +68,7 @@
 <!--                        <div class="col s12 m3">-->
 <!--                            <img src="piccers/bazen/sjihdazi.png" alt="" class="circle responsive-img">-->
 <!--                        </div>-->
-                        <div class="col s12 m6">
+                        <div class="col s12 m12 l6">
                             <div class="card cardbg">
                                 <div class="card-content">
                                     <div class="row">
@@ -104,11 +104,16 @@
                                     </div>
                                 </div>
                             </div>
+                            <div class="col 12">
+                                <p>
+                                    Ma name
+                                </p>
+                            </div>
                         </div>
 <!--                        <div class="col s12 m3">-->
 <!--                            <img src="piccers/bazen/sidoi.png" alt="" class="circle responsive-img">-->
 <!--                        </div>-->
-                        <div class="col s12 m6">
+                        <div class="col s12 m12 l6">
                             <div class="card cardbg">
                                 <div class="card-content">
                                     <div class="row">
@@ -144,16 +149,11 @@
                                     </div>
                                 </div>
                             </div>
-                        </div>
-                        <div class="col s12 m6">
-                            <p>
-                                Ma name
-                            </p>
-                        </div>
-                        <div class="col s12 m6">
-                            <p>
-                               a Jeff.
-                            </p>
+                            <div class="col 12">
+                                <p>
+                                    a Jeff.
+                                </p>
+                            </div>
                         </div>
                     </div>
                 </div>
@@ -284,13 +284,6 @@
                 <div class="col l6 s12">
                     <h5 class="white-text">Company Bio</h5>
                     <p class="grey-text text-lighten-4">We are a team of college students working on this project like it's our full time job. Any amount would help support and continue development on this project and is greatly appreciated.</p>
-                </div>
-                <div class="col l3 s12">
-                    <h5 class="white-text">Settings</h5>
-                    <ul>
-                        <li><a class="white-text" href="#!">Link 1</a></li>
-                        <li><a class="white-text" href="#!">Link 2</a></li>
-                    </ul>
                 </div>
                 <div class="col l3 s12">
                     <h5 class="white-text">Connect</h5>
