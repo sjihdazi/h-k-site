@@ -101,6 +101,9 @@
     .parasmall{
         display: block;
     }
+    .cardbg{
+        background-image: none;
+    }
 }
 @media (min-width: 600px) and (max-width: 993px){
     .cardbg {

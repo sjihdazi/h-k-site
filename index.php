@@ -64,7 +64,7 @@
 <!--                            <img src="piccers/bazen/sjihdazi.png" alt="" class="circle responsive-img">-->
 <!--                        </div>-->
                         <div class="col s12 m12 l6">
-                            <div class="card cardbg">
+                            <div class="card cardbg cardbgmobile">
                                 <div class="card-content">
                                     <div class="row">
                                         <div class="col s12 m7">
@@ -109,7 +109,7 @@
 <!--                            <img src="piccers/bazen/sidoi.png" alt="" class="circle responsive-img">-->
 <!--                        </div>-->
                         <div class="col s12 m12 l6">
-                            <div class="card cardbg">
+                            <div class="card cardbg cardbgmobile">
                                 <div class="card-content">
                                     <div class="row">
                                         <div class="col s12 m7">
