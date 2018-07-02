@@ -25,10 +25,10 @@ $(document).ready(function(){
         }
     });
 
-    //Click event to scroll to top
-    $('.scrollToTop').click(function(){
-        $('html, body').animate({scrollTop : 0},1000);
+    $('a').click(function(){
+        $('html, body').animate({
+            scrollTop: $( $(this).attr('href') ).offset().top
+        }, 500);
         return false;
     });
-
 });

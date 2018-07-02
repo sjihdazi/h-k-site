@@ -3,7 +3,7 @@
 <head>
 	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
 	<meta name="viewport" content="width=device-width, initial-scale=1"/>
-	<title>h&k development</title>
+	<title>H&K webworks</title>
 	<link rel="icon" href="piccers/icon.ico" type="image/icon" sizes="32x32"/>
 	<!-- CSS  -->
 	<link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
@@ -11,18 +11,12 @@
 	<link href="css/style.css" type="text/css" rel="stylesheet" media="screen,projection"/>
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
 	<script type="text/javascript">
-		$('a').click(function(){
-			$('html, body').animate({
-				scrollTop: $( $(this).attr('href') ).offset().top
-			}, 500);
-			return false;
-		});
 	</script>
     <link rel="icon" href="piccers/logoh&kico.ico" type="image/gif" sizes="32x32">
 </head>
 <body>
-<a href="#" class="scrollToTop"><i class="material-icons white-text">expand_less</i></a>
-	<nav class="black white-text" role="navigation">
+<a href="#top" class="scrollToTop"><i class="material-icons white-text">expand_less</i></a>
+	<nav id="top" class="black white-text scrollspy" role="navigation">
 		<div class="nav-wrapper container">
 			<a id="logo-container" href="#" class="brand-logo">Welkom</a>
 			<ul class="right hide-on-med-and-down">
@@ -54,9 +48,9 @@
 	</div>
 
 	<div class="container section" style="min-height: 800px">
-		<div class="section ">
+		<div id="Content" class="scrollspy section" >
 			<h2 class="center blue-text">Even voorstellen</h2>
-			<p id="Content" class="scrollspy">
+			<p>
                 Wij zijn twee HBO studenten die geld willen verdienen door domme simpele websites aan te smeren aan particuliere bedrijven die zeer trieste websites hebben.
 			</p>
 			<hr style="border-color: transparent;background: #1e88e5;" />
@@ -205,17 +199,17 @@
 		<div class="parallax parabig"> <img src="piccers/codingheader2.png"></div>
 		<div class="parallax parasmall"> <img src="piccers/codingheader2small.jpg"></div>
 	</div>
-	<div class="container section">
+	<div id="Locatie" class="container section scrollspy">
 		<div class="section">
 			<!--   Location Section   -->
 			<div class="row">
 				<div class="col s12 m12">
-					<div class="section ">
+					<div  class="section">
 						<h2 class="center blue-text">Locatie</h2>
 					</div>
 				</div>
 				<div class="col s12 m12">
-					<div id="Locatie" class="icon-block scrollspy">
+					<div class="icon-block">
                         <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d9774.224566645604!2d5.530337046055245!3d52.23328141791694!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47c6362af67df9bd%3A0xde428797ccc55baa!2s3882+SM+Hell!5e0!3m2!1snl!2snl!4v1530197255042" width="100%" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
                         <h5 class="blue-text">Hell</h5>
 						<p class="light">We did most of the heavy lifting for you to provide a default stylings that incorporate our custom components. Additionally, we refined animations and transitions to provide a smoother experience for developers.</p>
