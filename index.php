@@ -49,7 +49,8 @@
 
 	<div class="header-parallax parallax-container valign-wrapper">
         <div class="row center"><img class="responsive-img" style="max-width: 100%; max-height: 450px;" src="piccers/logoh&k_wd.png"></div>
-		<div class="parallax" ><img src="piccers/codingheader.png" alt="Unsplashed background img 2" ></div>
+		<div class="parallax parabig" ><img src="piccers/codingheader.png" alt="Unsplashed background img 2" ></div>
+		<div class="parallax parasmall" ><img src="piccers/codingheadersmall.jpg" alt="Unsplashed background img 2" ></div>
 	</div>
 
 	<div class="container section" style="min-height: 800px">
@@ -157,8 +158,8 @@
                         </div>
                     </div>
                 </div>
-				<div class="col s12 m12 ">
-					<div class="card" style="height: 460px;">
+				<div class="col s12 m12">
+					<div class="card cardbgcol12" style="height: 460px;">
 						<div class="card-content">
                             <span class="card-title blue-text"><h4>Wat doen wij?</h4></span>
                             <ul>
@@ -201,7 +202,8 @@
 				</div>
 			</div>
 		</div>
-		<div class="parallax"> <img src="piccers/codingheader3.png"></div>
+		<div class="parallax parabig"> <img src="piccers/codingheader2.png"></div>
+		<div class="parallax parasmall"> <img src="piccers/codingheader2small.jpg"></div>
 	</div>
 	<div class="container section">
 		<div class="section">
@@ -230,7 +232,8 @@
 				</div>
 			</div>
 		</div>
-		<div class="parallax"><img src="piccers/codingheader3.png" alt="Unsplashed background img 2"></div>
+		<div class="parallax parabig"><img src="piccers/codingheader3.png" alt="Unsplashed background img 2"></div>
+		<div class="parallax parasmall"><img src="piccers/codingheader3small.jpg" alt="Unsplashed background img 2"></div>
 	</div>
 
 	<div id="Contact" class="container section scrollspy blue-text">
