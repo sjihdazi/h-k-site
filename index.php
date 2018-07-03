@@ -21,6 +21,7 @@
 			<a id="logo-container" href="#" class="brand-logo">Welkom</a>
 			<ul class="right hide-on-med-and-down">
                 <li><a href="#Content">Even voorstellen</a></li>
+                <li><a href="#Tarieven">Tarieven</a></li>
 				<li><a href="#Locatie">Locatie</a></li>
 				<li><a href="#Contact">Contact</a></li>
 			</ul>
@@ -29,6 +30,9 @@
 					<div class="col s12">
                         <li><a class="white-text" href="#Content">Even voorstellen</a></li>
 					</div>
+                    <div class="col s12">
+                        <li><a class="white-text" href="#Tarieven">Tarieven</a></li>
+                    </div>
 					<div class="col s12">
                         <li><a class="white-text" href="#Locatie">Locatie</a></li>
 					</div>
@@ -186,9 +190,9 @@
             <div class="row">
                 <div class="col s12 m12">
                     <h2 class="center blue-text">Tarieven</h2>
-                    <div class="card cardbgcol12" style="height: 310px;">
+                    <div class="card cardbgcol12">
                         <div class="card-content">
-                            <table class="responsive-table highlight">
+                            <table class="highlight">
                                 <thead>
                                     <tr>
                                         <th><p>Product</p></th>
