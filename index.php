@@ -106,9 +106,6 @@
                                 </p>
                             </div>
                         </div>
-<!--                        <div class="col s12 m3">-->
-<!--                            <img src="piccers/bazen/sidoi.png" alt="" class="circle responsive-img">-->
-<!--                        </div>-->
                         <div class="col s12 m12 l6">
                             <div class="card cardbg cardbgmobile">
                                 <div class="card-content">
