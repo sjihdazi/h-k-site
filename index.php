@@ -76,12 +76,12 @@
                                                     <td>20</td>
                                                 </tr>
                                                 <tr>
-                                                    <td><b>Diploma</b></td>
-                                                    <td>Applicatieontwikkelaar, Deltion College, Zwolle</td>
-                                                </tr>
-                                                <tr>
                                                     <td><b>Opleiding</b></td>
                                                     <td>Informatica, Stenden Hoge School</td>
+                                                </tr>
+                                                <tr>
+                                                    <td><b>Diploma</b></td>
+                                                    <td>Applicatieontwikkelaar, Deltion College, Zwolle</td>
                                                 </tr>
                                                 <tr>
                                                     <td><b>sinds</b></td>
@@ -89,7 +89,7 @@
                                                 </tr>
                                                 <tr>
                                                     <td><b>Specialisme</b></td>
-                                                    <td>motoriek</td>
+                                                    <td>Frontend development</td>
                                                 </tr>
                                             </table>
                                         </div>
@@ -121,12 +121,12 @@
                                                     <td>19</td>
                                                 </tr>
                                                 <tr>
-                                                    <td><b>Diploma</b></td>
-                                                    <td>Applicatieontwikkelaar, Drenthe College, Emmen</td>
-                                                </tr>
-                                                <tr>
                                                     <td><b>Opleiding</b></td>
                                                     <td>Informatica, Stenden Hoge School</td>
+                                                </tr>
+                                                <tr>
+                                                    <td><b>Diploma</b></td>
+                                                    <td>Applicatieontwikkelaar, Drenthe College, Emmen</td>
                                                 </tr>
                                                 <tr>
                                                     <td><b>sinds</b></td>
@@ -134,7 +134,7 @@
                                                 </tr>
                                                 <tr>
                                                     <td><b>Specialisme</b></td>
-                                                    <td>limbo</td>
+                                                    <td>Backend development</td>
                                                 </tr>
                                             </table>
                                         </div>
@@ -153,26 +153,17 @@
                     </div>
                 </div>
 				<div class="col s12 m12">
-					<div class="card cardbgcol12" style="height: 460px;">
+					<div class="card cardbgcol12" style="height: 260px;">
 						<div class="card-content">
                             <span class="card-title blue-text"><h4>Wat doen wij?</h4></span>
                             <ul>
                                 <li>Websites ontwerpen</li>
                                 <li>Websites ontwikkelen</li>
-                                <li>drinken</li>
-                                <li>proberen niet te bezwijken onder de druk van het leven</li>
                                 <li>logo's maken</li>
-
-                                <li>ademen</li>
-                                <li>chronisch hoesten</li>
-                                <li>lezen- en spelling toetsen maken</li>
                             </ul>
                             <hr style="border-color: transparent;background: #1e88e5;" />
                             <ul>
-                                <li>Een afspraak maken kan <b class="blue-text">alleen met clinische verwijzing</b>.</li>
                                 <li>Er is geen wachtlijst.</li>
-                                <li>Logopedie wordt vergoed door alle verzekeraars.</li>
-                                <li>Web development <18 jaar wordt volledig vergoed.</li>
                             </ul>
                         </div>
                     </div>
@@ -180,14 +171,53 @@
             </div>
         </div>
     </div>
-<!--    <div class="container section">-->
-<!--        <div class="section">-->
-<!--            <!--   Location Section   -->
-<!--            <div class="row valign-wrapper">-->
-<!---->
-<!--            </div>-->
-<!--        </div>-->
-<!--    </div>-->
+    <div class="parallax-container content-parallax valign-wrapper">
+        <div class="section no-pad-bot">
+            <div class="container">
+                <div class="row center">
+                </div>
+            </div>
+        </div>
+        <div class="parallax parabig"><img src="piccers/codingheader3.png" alt="Unsplashed background img 2"></div>
+        <div class="parallax parasmall"><img src="piccers/codingheader3small.jpg" alt="Unsplashed background img 2"></div>
+    </div>
+    <div id="Tarieven" class="container section scrollspy" style="min-height: 400px">
+        <div class="section">
+            <div class="row">
+                <div class="col s12 m12">
+                    <h2 class="center blue-text">Tarieven</h2>
+                    <div class="card cardbgcol12" style="height: 310px;">
+                        <div class="card-content">
+                            <table class="responsive-table highlight">
+                                <thead>
+                                    <tr>
+                                        <th><p>Product</p></th>
+                                        <th><p>Prijs</p></th>
+                                    </tr>
+                                </thead>
+                                <tbody>
+                                    <tr>
+                                        <td><p>Website met standaard template</p></td>
+                                        <td><b class="blue-text">€200,-</b></td>
+                                    </tr>
+                                    <tr>
+                                        <td><p>Website met ontworpen design</p></td>
+                                        <td><b class="blue-text">€270,-</b></td>
+                                    </tr>
+                                    <tr>
+                                        <td><p>logo</p></td>
+                                        <td><b class="blue-text">€80,-</b></td>
+                                    </tr>
+                                </tbody>
+                            </table>
+                            <p>Een website krijgt max 8 pagina's.</p>
+                            <p>Extra pagina's bedragen <b class="blue-text">€10,- per stuk.</b></p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
 	<div class="parallax-container content-parallax valign-wrapper">
 		<div class="section no-pad-bot">
 			<div class="container">
@@ -210,8 +240,8 @@
 				</div>
 				<div class="col s12 m12">
 					<div class="icon-block">
-                        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d9774.224566645604!2d5.530337046055245!3d52.23328141791694!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47c6362af67df9bd%3A0xde428797ccc55baa!2s3882+SM+Hell!5e0!3m2!1snl!2snl!4v1530197255042" width="100%" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
-                        <h5 class="blue-text">Hell</h5>
+                        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d38528.34208700366!2d7.038232405640007!3d52.87602975293201!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47b7c19dcc63ef51%3A0xc8dd1f86a8c0ae2d!2sTer+Apel!5e0!3m2!1snl!2snl!4v1530600374318" width="100%" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+                        <h5 class="blue-text">Ter Apel</h5>
 						<p class="light">We did most of the heavy lifting for you to provide a default stylings that incorporate our custom components. Additionally, we refined animations and transitions to provide a smoother experience for developers.</p>
 					</div>
 				</div>
