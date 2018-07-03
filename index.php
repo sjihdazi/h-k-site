@@ -55,7 +55,7 @@
 		<div id="Content" class="scrollspy section" >
 			<h2 class="center blue-text">Even voorstellen</h2>
 			<p>
-                Wij zijn twee HBO studenten die geld willen verdienen door domme simpele websites aan te smeren aan particuliere bedrijven die zeer trieste websites hebben.
+                Wij zijn twee HBO studenten die voor een mooie prijs goede websites ontwikkelen.
 			</p>
 			<hr style="border-color: transparent;background: #1e88e5;" />
 		</div>
@@ -64,9 +64,6 @@
 			<div class="row">
                 <div class="col s12 m12">
                     <div class="row">
-<!--                        <div class="col s12 m3">-->
-<!--                            <img src="piccers/bazen/sjihdazi.png" alt="" class="circle responsive-img">-->
-<!--                        </div>-->
                         <div class="col s12 m12 l6">
                             <div class="card cardbg cardbgmobile">
                                 <div class="card-content">
@@ -216,6 +213,9 @@
                             </table>
                             <p>Een website krijgt max 8 pagina's.</p>
                             <p>Extra pagina's bedragen <b class="blue-text">€10,- per stuk.</b></p>
+                            <br>
+                            <p>Meerwerk bedraagt extra kosten.</p>
+                            <p>Deze kosten worden berekend op basis van het meerwerk.</p>
                         </div>
                     </div>
                 </div>
@@ -246,7 +246,7 @@
 					<div class="icon-block">
                         <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d38528.34208700366!2d7.038232405640007!3d52.87602975293201!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47b7c19dcc63ef51%3A0xc8dd1f86a8c0ae2d!2sTer+Apel!5e0!3m2!1snl!2snl!4v1530600374318" width="100%" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
                         <h5 class="blue-text">Ter Apel</h5>
-						<p class="light">We did most of the heavy lifting for you to provide a default stylings that incorporate our custom components. Additionally, we refined animations and transitions to provide a smoother experience for developers.</p>
+						<p class="light"></p>
 					</div>
 				</div>
 			</div>
