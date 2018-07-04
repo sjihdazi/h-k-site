@@ -22,7 +22,6 @@
 			<ul class="right hide-on-med-and-down">
                 <li><a href="#Content">Even voorstellen</a></li>
                 <li><a href="#Tarieven">Tarieven</a></li>
-				<li><a href="#Locatie">Locatie</a></li>
 				<li><a href="#Contact">Contact</a></li>
 			</ul>
 			<ul id="nav-mobile" class="side-nav tabs blue">
@@ -33,9 +32,6 @@
                     <div class="col s12">
                         <li><a class="white-text" href="#Tarieven">Tarieven</a></li>
                     </div>
-					<div class="col s12">
-                        <li><a class="white-text" href="#Locatie">Locatie</a></li>
-					</div>
 					<div class="col s12">
 						<li><a class="white-text" href="#Contact">Contact</a></li>
 					</div>
@@ -230,37 +226,6 @@
 		<div class="parallax parabig"> <img src="piccers/codingheader2.png"></div>
 		<div class="parallax parasmall"> <img src="piccers/codingheader2small.jpg"></div>
 	</div>
-	<div id="Locatie" class="container section scrollspy">
-		<div class="section">
-			<!--   Location Section   -->
-			<div class="row">
-				<div class="col s12 m12">
-					<div  class="section">
-						<h2 class="center blue-text">Locatie</h2>
-					</div>
-				</div>
-				<div class="col s12 m12">
-					<div class="icon-block">
-                        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d38528.34208700366!2d7.038232405640007!3d52.87602975293201!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47b7c19dcc63ef51%3A0xc8dd1f86a8c0ae2d!2sTer+Apel!5e0!3m2!1snl!2snl!4v1530600374318" width="100%" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
-                        <h5 class="blue-text">Ter Apel</h5>
-						<p class="light"></p>
-					</div>
-				</div>
-			</div>
-		</div>
-	</div>
-
-	<div class="parallax-container content-parallax valign-wrapper">
-		<div class="section no-pad-bot">
-			<div class="container">
-				<div class="row center">
-				</div>
-			</div>
-		</div>
-		<div class="parallax parabig"><img src="piccers/codingheader3.png" alt="Unsplashed background img 2"></div>
-		<div class="parallax parasmall"><img src="piccers/codingheader3small.jpg" alt="Unsplashed background img 2"></div>
-	</div>
-
 	<div id="Contact" class="container section scrollspy blue-text">
 		<div class="section">
 			<div class="row">
@@ -332,7 +297,6 @@
             </div>
         </div>
     </div>
-
 		<!-- Modal Structure -->
 		<div id="modal1" class="modal">
 			<div class="modal-content">
