@@ -266,20 +266,58 @@
 			<div class="row">
 				<h2 class="center blue-text contact">Contact</h2>
                 <div class="col col s12 m12 center">
+                    <div class="card lighten-5">
+                        <div class="card-content black-text">
+                            <h4 class="">Afspraak maken?</h4>
+                            <form method="post" class="blue-text">
+                                <div class="row">
+                                    <div class="input-field col s6">
+                                        <input id="first_name white" type="text" class="">
+                                        <label for="first_name white">Voornaam</label>
+                                    </div>
+                                    <div class="input-field col s6">
+                                        <input id="last_name" type="text" class="">
+                                        <label for="last_name" >Achternaam</label>
+                                    </div>
+                                </div>
+                                <div class="row">
+                                    <div class="input-field col s6">
+                                        <input id="company_name" type="text" class="">
+                                        <label for="company_name">Bedrijfsnaam</label>
+                                    </div>
+                                    <div class="input-field col s6">
+                                        <input id="email" type="email" class="">
+                                        <label for="email">Email</label>
+                                    </div>
+                                </div>
+                                <div class="row">
+                                    <div class="input-field col s12">
+                                        <textarea id="icon_prefix2" class="materialize-textarea"></textarea>
+                                        <label for="icon_prefix2">Bericht</label>
+                                    </div>
+                                </div>
+                                <div class="row">
+                                    <div class="input-field col s12">
+                                        <button class="blue btn waves-effect waves-light" type="submit" name="action">Verzend
+                                            <i class="material-icons right">send</i>
+                                        </button>
+                                    </div>
+                                </div>
+                            </form>
+                        </div>
+                    </div>
+                </div>
+                <div class="col col s12 m12 center">
                     <div class="card grey lighten-5">
-                        <div class="card-content black-text Ccontent-height">
-                            <h4 class="blue-text">Afspraak maken?</h4>
+                        <div class="card-content black-text">
+                            <h4 class="">Contact gegvens</h4>
                             <span class="flow-text">
                                 Voor aanmeldingen, afspraken en informatie  kunt u met de onderstaande gegevens contact met mij opnemen.
                                 <div class="section">
                                         <p>Huisnummer: <span class="blue-text">0599580081</span></p>
                                         <a class="black btn-large btn-floating white-text" href="tel:0599580081"><i class="material-icons">local_phone</i></a>
-                                </div>
-                                <div class="section">
                                         <p>Whatsapp: <span class="blue-text">06-29043191</span></p>
                                         <a class="black btn-large btn-floating white-text" href="https://api.whatsapp.com/send?phone=+31629043191"><i class="material-icons">chat_bubble_outline</i></a>
-                                </div>
-                                <div class="section">
                                         <p>e-mail: <span class="blue-text">s.hellingmanrijnvos@hetnet.nl</span></p>
                                         <a class="black btn-large btn-floating white-text" href="mailto:s.hellingmanrijnvos@hetnet.nl?SUBJECT=Afspraak"><i class="material-icons">mail_outline</i></a>
                                 </div>

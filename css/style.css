@@ -81,6 +81,28 @@
     display: none;
 }
 
+/*Form style*/
+
+/* label focus color */
+form .input-field input:focus + label {
+    color: #000 !important;
+}
+/* label underline focus color */
+form .input-field input:focus {
+    border-bottom: 1px solid #000 !important;
+    box-shadow: 0 1px 0 0 #000 !important;
+}
+
+/* label focus color */
+form textarea:focus + label {
+    color: #000 !important;
+}
+/* label underline focus color */
+form textarea:focus {
+    border-bottom: 1px solid #000 !important;
+    box-shadow: 0 1px 0 0 #000 !important;
+}
+
 /*Media queries*/
 @media (min-width: 320px) and (max-width: 600px){
     .header-parallax{
