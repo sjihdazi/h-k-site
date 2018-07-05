@@ -192,15 +192,15 @@
                                 <tbody>
                                     <tr>
                                         <td><p>Website met standaard template</p></td>
-                                        <td><b class="blue-text">€200,-</b></td>
+                                        <td><b class="blue-text">v.a. €200,-</b></td>
                                     </tr>
                                     <tr>
                                         <td><p>Website met ontworpen design</p></td>
-                                        <td><b class="blue-text">€270,-</b></td>
+                                        <td><b class="blue-text">v.a. €270,-</b></td>
                                     </tr>
                                     <tr>
                                         <td><p>logo</p></td>
-                                        <td><b class="blue-text">€80,-</b></td>
+                                        <td><b class="blue-text">v.a. €80,-</b></td>
                                     </tr>
                                 </tbody>
                             </table>
