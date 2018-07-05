@@ -18,7 +18,7 @@
 <a href="#top" class="scrollToTop"><i class="material-icons white-text">expand_less</i></a>
 	<nav id="top" class="black white-text scrollspy" role="navigation">
 		<div class="nav-wrapper container">
-			<a id="logo-container" href="#" class="brand-logo">Welkom</a>
+			<a id="logo-container" href="#" class="brand-logo"><span class="typing"></span></a>
 			<ul class="right hide-on-med-and-down">
                 <li><a href="#Content">Even voorstellen</a></li>
                 <li><a href="#Tarieven">Tarieven</a></li>
@@ -342,6 +342,7 @@
     <!--  Scripts-->
     <script src="https://code.jquery.com/jquery-2.1.1.min.js"></script>
     <script src="js/materialize.js"></script>
+    <script type="text/javascript" src="js/typed.js"></script>
     <script src="js/init.js"></script>
 </body>
 </html>

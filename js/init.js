@@ -31,4 +31,9 @@ $(document).ready(function(){
         }, 500);
         return false;
     });
+
+    var typed = new Typed('.typing', {
+        strings: ["Welkom op onze website"],
+        typeSpeed: 70
+    });
 });
